@@ -26,4 +26,4 @@ YouTubeなどにアップロードできないファイル置き場です。
 
 ### 怪我と治療
 
-- [処置の動画](./public/youtube_membership/001/index.html)
+- [処置の動画](./public/youtube-membership/001/index.html)
